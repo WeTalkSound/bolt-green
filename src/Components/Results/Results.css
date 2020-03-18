@@ -1,0 +1,38 @@
+
+
+.social {
+    color: #fff;
+    text-align: center;
+  }
+  
+  .social.facebook {
+    background-color: #3b5998;
+    color: #fff;
+  }
+  
+  .social.twitter {
+    background-color: #38A1F3;
+    color: #fff;
+  }
+  
+  .social.whatsapp {
+    background-color: #25D366;
+    color: #fff;
+  }
+  
+  .btn-floating {
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    z-index: 5;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+    border-radius: 50%;
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    cursor: pointer;
+    vertical-align: middle;
+  }

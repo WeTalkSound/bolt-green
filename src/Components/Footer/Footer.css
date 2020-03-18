@@ -1,0 +1,22 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--primary-color);
+    padding: 15px 0;
+    z-index: 997;
+  }
+  
+  .footer img {
+    height: 60px;
+  }
+
+  .footer a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .footer a:hover, .footer a:active {
+    color: inherit;
+    text-decoration: underline;
+  }

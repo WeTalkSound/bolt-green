@@ -1,0 +1,23 @@
+img.aux-background {
+  max-height: 190px;
+  position: fixed;
+  bottom: 145px;
+  z-index: -1;
+}
+
+img.aux-background.right {
+  right: 25px;
+}
+
+img.img-center {
+  display: block;
+  margin: 0 auto;
+}
+
+img.aux-logo {
+  position: fixed;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  max-height: 500px;
+}

@@ -1,0 +1,16 @@
+nav {
+    padding: 25px;
+}
+
+.brand-logo {
+    height: 80px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+}
+
+@media (min-width: 767px){
+    .brand-logo {
+        margin: 0;
+    }
+}
